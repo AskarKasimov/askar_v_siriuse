@@ -17,7 +17,7 @@
 <!--?xml version='1.0' ?--><!DOCTYPE replace [<!ENTITY ent SYSTEM 'file:///flag.txt'> ]><data><countries>&ent;</countries><startdate></startdate><enddate></enddate><resttype></resttype></data>
 ```
 
-Флаг: nto{w3bs0ck3ts_plu5_xx3_1s_l0v3}
+Флаг: `nto{w3bs0ck3ts_plu5_xx3_1s_l0v3}`
 
 ### WEB 2
 
@@ -31,7 +31,7 @@
 
 ![https://i.imgur.com/vRgBzgG.png](https://i.imgur.com/vRgBzgG.png)
 
-Флаг: NTO{request_smuggling_917a34072663f9c8beea3b45e8f129c5}
+Флаг: `NTO{request_smuggling_917a34072663f9c8beea3b45e8f129c5}`
 
 ### WEB 3
 
@@ -47,7 +47,7 @@
 
 После этого нужно авторизоваться в корне сайта и пройти на `/admin/flag`
 
-Флаг: nto{pr0t0typ3_pollut10n_g4dged5_f56acc00f5eb803de88496b}
+Флаг: `nto{pr0t0typ3_pollut10n_g4dged5_f56acc00f5eb803de88496b}`
 
 ### REVERSE 1
 
