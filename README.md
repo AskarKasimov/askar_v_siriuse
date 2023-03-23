@@ -122,6 +122,10 @@ print(byte_answer.decode())
     
     ![https://i.imgur.com/MHdJzzB.png](https://i.imgur.com/MHdJzzB.png)
     
+    Также мы провели анализ деятельности программы с помощью `lsof`:
+    
+    ![https://i.imgur.com/ZkydsAo.png](https://i.imgur.com/ZkydsAo.png)
+    
 5. В файле `passwords.kdbx` лежат данные для входа на **RDP Windows**:
     - логин: `Administrator`
     - пароль: `SecretP@ssw0rdMayby_0rNot&`
