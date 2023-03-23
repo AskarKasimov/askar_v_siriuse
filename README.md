@@ -124,4 +124,10 @@ print(byte_answer.decode())
     
 5. В файле `passwords.kdbx` лежат данные для входа на **RDP Windows**:
     - логин: `Administrator`
-    - пароль: `SecretP@ssw0rdMayby_0rNot`
+    - пароль: `SecretP@ssw0rdMayby_0rNot&`
+---
+by team аскар_в_сириусе:
+- Роман "broken_cursor" Швиндт
+- Аскар "AskarTheBest" Касимов
+- Роман "svrweather" Лашкарёв
+- Дамир "rahmatullin-official" Рахматуллин
