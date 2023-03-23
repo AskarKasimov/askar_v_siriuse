@@ -99,7 +99,7 @@ byte_answer = bytearray.fromhex(answer_to_hex)
 print(byte_answer.decode())
 ```
 
-Флаг: nto{0h_n0_t1m1ng}
+Флаг: `nto{0h_n0_t1m1ng}`
 
 # Forensics №1
 
